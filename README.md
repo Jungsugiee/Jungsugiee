@@ -7,3 +7,7 @@ Scientist / Engineer / Programmer
 Socials
 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
+
+Badges
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungsugiee)](https://solved.ac/jungsugiee/)
