@@ -6,7 +6,7 @@ Scientist / Engineer / Programmer
 
 Socials
 
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
 
 Badges
 
