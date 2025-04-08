@@ -6,7 +6,7 @@ Scientist / Engineer / Programmer
 
 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)(https://www.instagram.com/james.l_22/?next=%2F)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/james.l_22/?next=%2F)
 
 Badges
 
